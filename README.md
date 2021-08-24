@@ -5,8 +5,11 @@
 - 📫 How to reach me vini.vendrame13@gmail.com
 
 
-![viniVendrame's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniVendrame&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniVendrame&layout=compact&theme=onedark)](https://github.com/viniVendrame/github-readme-stats)
+ <div>
+  <a href="https://github.com/viniVendrame">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniVendrame&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniVendrame&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 <!---
 viniVendrame/viniVendrame is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
